@@ -2,10 +2,10 @@
 This project is created on 13-July-2019
 
 ### Project Title
-Spark SQL
+Analyzing Web Server Logs with Apache Spark
 
 ### Description
-In this project, I created and queried a database using Spark SQL
+In this project, I wrangled and analyzed real-world production logs from NASA using Apache Spark.
 
 ### Files used
 The data files used in this project are; <Br>
