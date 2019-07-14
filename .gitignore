@@ -1,0 +1,6 @@
+# Files used in pandas project
+pandas/cast.csv.bz2 
+pandas/release_dates.csv.bz2
+pandas/titles.csv.bz2
+
+*/.ipynb_checkpoints
