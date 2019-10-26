@@ -8,8 +8,7 @@ Ultimate Inc Data Science Challenge - Take Home Assignment
 In this project (1) I designed an experiment to test the effect of proposed change of reimbursing the toll in increasing intercity taxi trips. (2) I build a model to predict user retention.
 
 ### Files used
-logins.json
-
+logins.json <Br>
 ultimate_data_challenge.json
 
 
