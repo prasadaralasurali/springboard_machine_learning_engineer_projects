@@ -1,0 +1,4 @@
+# Files used in pandas project
+*.json
+
+*/.ipynb_checkpoints
