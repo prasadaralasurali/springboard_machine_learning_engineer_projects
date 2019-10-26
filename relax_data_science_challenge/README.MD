@@ -8,7 +8,7 @@ Relax Data Science Challenge - Take Home Assignment
 In this project, first I determined if an user is adopted based on whether a user logged in at least three times in any 7 days period. Then I build a model to predict user adoption. 
 
 ### Files used
-takehome_user_engagement.csv
+takehome_user_engagement.csv <Br>
 takehome_users.csv
 
 
